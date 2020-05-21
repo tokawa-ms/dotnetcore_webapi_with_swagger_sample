@@ -1,0 +1,2 @@
+# dotnetcore_webapi_with_swagger_sample
+適当に天気っぽいデモデータを返すAPIのデモコードに、Swashbuckleをセットアップしてswaggerが自動生成できるところまでテストしたサンプル。
